@@ -23,7 +23,7 @@ Walkthroughs that stop at "I found the flag" are not included. The reasoning is 
 
 | # | Writeup | Focus | Tools | Published |
 |---|---|---|---|---|
-| — | *First writeup lands w/c 31 Aug 2026* | | | |
+| — |  | | | |
 
 ---
 
